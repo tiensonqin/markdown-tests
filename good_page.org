@@ -1,3 +1,8 @@
 #+TITLE: Good Page
 #+TAGS: tag1 tag2
 ** Good page
+*** hello world, this is so nice1
+*** Great work
+*** nice done!
+*** reall ^^cool^^ *bingo*
+*** jhey
