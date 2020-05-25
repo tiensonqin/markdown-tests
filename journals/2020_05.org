@@ -1,4 +1,4 @@
-* Friday, 05/01/2020
+Friday, 05/01/2020
 * Saturday, 05/02/2020
 * Sunday, 05/03/2020
 * Monday, 05/04/2020
@@ -40,7 +40,11 @@
 ** so good!
 e test
 [[Monday, 05/25/2020]] 
-* Mondgo!
+* Monday, 05/25/2020
+** What are you talking about?
+** great
+** very cool
+** I like this so much!
 * Tuesday, 05/26/2020
 * Wednesday, 05/27/2020
 * Thursday, 05/28/2020
