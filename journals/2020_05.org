@@ -16,14 +16,15 @@
 * Saturday, 05/16/2020
 * Sunday, 05/17/2020
 * Monday, 05/18/2020
+** So nice
+** great
 * Tuesday, 05/19/2020
 * Wednesday, 05/20/2020
+** [[Monday, 05/25/2020]] 
 * Thursday, 05/21/2020
 * Friday, 05/22/2020
-* Saturday, 05/23/2020
-** Very cool, I kinda
-** hello
-ay, 05/25/2020]]
+** [[Monday, 05/25/2020]] 
+* Saturday, 05/23/20205/2020]]
 ** [[Sunday, 05/24/2020]] 
 * Sunday, 05/24/2020
 *
@@ -31,15 +32,7 @@ ay, 05/25/2020]]
 ** so good!
 e test
 [[Monday, 05/25/2020]] 
-* Monday, 05/25/2020
-** hello world
-** grea
-** bingo!
-** perfectly done
-** world
-** I like this so much
-** so Good, really nice
-** bingo!
+* Mondgo!
 * Tuesday, 05/26/2020
 * Wednesday, 05/27/2020
 * Thursday, 05/28/2020
