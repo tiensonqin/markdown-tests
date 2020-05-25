@@ -28,7 +28,9 @@
 ** [[Sunday,
 ** hello world
 ** great
-** like it so far
+** like it so far, like it
+** great
+** hello world
  05/24/2020]] 
 * Sunday, 05/24/2020
 *
