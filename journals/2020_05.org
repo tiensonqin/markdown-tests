@@ -26,12 +26,16 @@
 ** [[Monday, 05/25/2020]]
 ** [[Sunday, 05/24/2020]] 
 * Sunday, 05/24/2020
-** Page reference test
+*
+** hello world
+** so good!
+e test
 [[Monday, 05/25/2020]] 
 * Monday, 05/25/2020
 ** hello world
-** great
-** hello
+** grea
+** bingo!
+** perfectly done
 ** world
 ** I like this so much
 ** so Good, really nice
